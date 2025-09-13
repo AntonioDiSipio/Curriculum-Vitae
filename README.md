@@ -1,7 +1,9 @@
-# Curricul Vitae - Antonio Di sipio
+# 👋 Ciao, sono Antonio Di Sipio
 
-🎯 **Geometra e tecnico specializzato** con oltre 15 anni di esperienza nel settore pubblico e privato, in progettazione architettonica, rilievi topografici, gestione GIS e pratiche catastali.  
-Appassionato di **urbanistica digitale**, **sistemi GIS** e **innovazione tecnologica applicata al territorio**.
+🎯 **Geometra e tecnico specializzato** con oltre 15 anni di esperienza nel settore pubblico e privato, con forte orientamento alla **topografia avanzata**, rilievi GNSS e con droni, gestione GIS e sviluppo software applicativo.  
+Appassionato di **sistemi di rilievo innovativi**, **GIS** e **tecnologie digitali per il territorio**.
+
+🌐 [www.disipio.io](http://www.disipio.io)
 
 ---
 
@@ -14,9 +16,11 @@ Appassionato di **urbanistica digitale**, **sistemi GIS** e **innovazione tecnol
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-green?logo=ubuntu)
 ![Office](https://img.shields.io/badge/MS%20Office-Excel%20%7C%20Word%20%7C%20Outlook-yellow?logo=microsoft)
 
-- **Progettazione:** AutoCAD, Revit, 3DS Max  
+- **Topografia avanzata** con strumentazioni GNSS e droni per rilievi di precisione  
 - **GIS & Database:** QGIS, PostgreSQL/PostGIS  
+- **Sviluppo software:** plugin in Python per QGIS, applicativi Python stand-alone  
 - **Catasto:** Pregeo, Docfa, Voltura, Docte, Analist  
+- **Progettazione e modellazione digitale:** AutoCAD, Revit, 3DS Max  
 - **Grafica & Editing:** Photoshop, Illustrator, GIMP  
 - **Sistemi Operativi:** Windows (ottimo), Linux/Ubuntu (buono)  
 
@@ -37,9 +41,11 @@ Appassionato di **urbanistica digitale**, **sistemi GIS** e **innovazione tecnol
 
 ### Libero Professionista – Studio Tecnico  
 📅 2008 – 2014  
+- Rilievi topografici con GNSS e stazione totale  
+- Rilievi e modellazione per infrastrutture stradali  
 - Progettazione architettonica e direzione lavori  
-- Rilievi topografici, frazionamenti, catasto edilizio urbano (Docfa)  
-- Collaborazioni con imprese e studi tecnici (post-sisma L’Aquila, infrastrutture stradali, ecc.)  
+- Pratiche catastali e frazionamenti  
+- Collaborazioni con imprese e studi tecnici (post-sisma L’Aquila, rilievi territoriali, ecc.)  
 
 ### Tecnico – Europroject (CH)  
 📅 2004 – 2007  
@@ -62,16 +68,16 @@ Appassionato di **urbanistica digitale**, **sistemi GIS** e **innovazione tecnol
 ---
 
 ## 🚀 Progetti Significativi
+- 🛰️ **Rilievi topografici GNSS e droni** – attività di precisione per infrastrutture e aree produttive.  
 - 🏗️ **Ricostruzione post-sisma L’Aquila** – rilievi topografici e supporto progettazione infrastrutture.  
 - 🌍 **Sistema GIS consortile** – sviluppo banca dati territoriale per la gestione delle aree industriali.  
-- 🚧 **Direzione lavori edilizi** – coordinamento cantiere e contabilità lavori.  
 
 ---
 
 ## 🎯 Obiettivi Professionali
-- Crescere come **tecnico GIS e progettista**.  
-- Contribuire a progetti di **riqualificazione urbana** e **sviluppo sostenibile**.  
-- Integrare le nuove tecnologie per ottimizzare la progettazione e la gestione del territorio.  
+- Consolidare le competenze nella **topografia avanzata con GNSS e droni**.  
+- Sviluppare applicativi innovativi in **Python per GIS e rilievi**.  
+- Contribuire a progetti di **digitalizzazione e gestione sostenibile del territorio**.  
 
 ---
 
@@ -86,6 +92,7 @@ Appassionato di **urbanistica digitale**, **sistemi GIS** e **innovazione tecnol
 - 🔗 PEC: [antonio.disipio@pec.it](mailto:antonio.disipio@pec.it)  
 - 📱 Tel: +39 333 9494056  
 - 💼 LinkedIn: [linkedin.com/in/antoniodisipio](https://www.linkedin.com) *(aggiungi il tuo link!)*  
+- 🌐 Sito Web: [www.disipio.io](http://www.disipio.io)  
 
 ---
 
