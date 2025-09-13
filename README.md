@@ -91,7 +91,6 @@ Appassionato di **sistemi di rilievo innovativi**, **GIS** e **tecnologie digita
 - 📧 Email: [antonio.disipio@gmail.com](mailto:antonio.disipio@gmail.com)  
 - 🔗 PEC: [antonio.disipio@pec.it](mailto:antonio.disipio@pec.it)  
 - 📱 Tel: +39 333 9494056  
-- 💼 LinkedIn: [linkedin.com/in/antoniodisipio](https://www.linkedin.com) *(aggiungi il tuo link!)*  
 - 🌐 Sito Web: [www.disipio.io](http://www.disipio.io)  
 
 ---
