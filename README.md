@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Antonio Di Sipio
+# 👋 Curriculum Vitae - Antonio Di Sipio
 
 🎯 **Geometra e tecnico specializzato** con oltre 15 anni di esperienza nel settore pubblico e privato, con forte orientamento alla **topografia avanzata**, rilievi GNSS e con droni, gestione GIS e sviluppo software applicativo.  
 Appassionato di **sistemi di rilievo innovativi**, **GIS** e **tecnologie digitali per il territorio**.
