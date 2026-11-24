@@ -30,7 +30,7 @@ Appassionato di **sistemi di rilievo innovativi**, **GIS** e **tecnologie digita
 
 ### Addetto allo Sportello – A.R.A.P. Abruzzo, UT7 Val Pescara/Ortona
 
-📅 6 Luglio 2026 – Oggi
+📅 6 Luglio 2026 – Impiego corrente
 
 - Rilascio delle autorizzazioni per l’insediamento di aziende
 - Pareri tecnici e nulla osta alla posa di infrastrutture
