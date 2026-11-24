@@ -28,8 +28,18 @@ Appassionato di **sistemi di rilievo innovativi**, **GIS** e **tecnologie digita
 
 ## 💼 Esperienza Lavorativa
 
-### Geometra – Consorzio per lo Sviluppo Industriale Chieti–Pescara  
-📅 Febbraio 2008 – Oggi  
+### Addetto allo Sportello – A.R.A.P. Abruzzo, UT7 Val Pescara/Ortona
+
+📅 6 Luglio 2026 – Oggi
+
+- Rilascio delle autorizzazioni per l’insediamento di aziende
+- Pareri tecnici e nulla osta alla posa di infrastrutture
+- Pareri tecnici e nulla osta relativi a compendi industriali
+
+### Geometra – Consorzio per lo Sviluppo Industriale Chieti–Pescara
+
+📅 Febbraio 2008 – 5 Luglio 2026
+
 - Rilascio autorizzazioni e assegnazioni insediamenti produttivi  
 - Gestione patrimonio e Sistema Informativo Territoriale (GIS)  
 - Ricognizione proprietà e aziende insediate  
